@@ -26,3 +26,10 @@ A world very similar to the classic pokemons from the Nintendo DS, but with the 
     - data.json: (the focus of the waifu data)
   + js: (Front~BackEnd)
     - index.js
+
+<h2>Rules:</h2>
+
+  1. Follow the Nomenclature
+  2. No Lolis
+  3. No Furris
+  4. Descriptive Commits (No "hola")
