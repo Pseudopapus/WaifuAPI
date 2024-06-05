@@ -134,15 +134,15 @@
     },
     {"id":7,"name":"Love is War","srcType":[1,5],"status":"Finished",
       "waifus":[
-        {"id":1,"name":{"nick":"Kaguya","name":"Kaguya","surn":"Shinomiya","jap":"四宮 かぐや"},"waifuType":[0],"pokeType":[0,0]},
-        {"id":2,"name":{"nick":"Fujiwara","name":"Chika","surn":"Fujiwara","jap":"藤原 千花"},"waifuType":[0],"pokeType":[0,0]},
+        {"id":1,"name":{"nick":"Kaguya","name":"Kaguya","surn":"Shinomiya","jap":"四宮 かぐや"},"waifuType":[4,7],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"Fujiwara","name":"Chika","surn":"Fujiwara","jap":"藤原 千花"},"waifuType":[9],"pokeType":[0,0]},
         {"id":3,"name":{"nick":"Hayasaka","name":"Ai","surn":"Hayasaka","jap":"早坂 愛"},"waifuType":[0],"pokeType":[0,0]},
         {"id":4,"name":{"nick":"Iino","name":"Iino","surn":"Miko","jap":"伊井野 ミコ"},"waifuType":[0],"pokeType":[0,0]},
         {"id":5,"name":{"nick":"Kei","name":"Kei","surn":"Shirogane","jap":"白銀 圭"},"waifuType":[0],"pokeType":[0,0]},
         {"id":6,"name":{"nick":"Tsubame","name":"Koyasu","surn":"Tsubame","jap":"子安 つばめ"},"waifuType":[0],"pokeType":[0,0]},
         {"id":7,"name":{"nick":"Kashiwagi","name":"Nagisa","surn":"Kashiwagi","jap":"柏木 渚"},"waifuType":[0],"pokeType":[0,0]},
         {"id":8,"name":{"nick":"Maki","name":"Maki","surn":"Shijo","jap":"四条 眞妃"},"waifuType":[0],"pokeType":[0,0]},
-        {"id":9,"name":{"nick":"Moeha","name":"Moeha","surn":"Fujiwara","jap":"藤原 萌葉"},"waifuType":[0],"pokeType":[0,0]},
+        {"id":9,"name":{"nick":"Moeha","name":"Moeha","surn":"Fujiwara","jap":"藤原 萌葉"},"waifuType":[5,9,15],"pokeType":[0,0]},
         {"id":10,"name":{"nick":"Onodera","name":"Rei","surn":"Onodera","jap":"小野寺 麗"},"waifuType":[0],"pokeType":[0,0]},
         {"id":11,"name":{"nick":"Ryuju","name":"Momo","surn":"Ryuju","jap":"龍珠 桃"},"waifuType":[0],"pokeType":[0,0]},
         {"id":12,"name":{"nick":"Kino","name":"Karen","surn":"Kino","jap":"紀 かれん"},"waifuType":[0],"pokeType":[0,0]},
@@ -158,10 +158,16 @@
     {"id":null,"name":"One Punch Man","srcType":[1,4,5],"status":"Publishing",
       "waifus":[]
     },
-    {"id":null,"name":"Jojos","srcType":[1,4,5,7],"status":"Nico",
+    {"id":8,"name":"Jojos","srcType":[1,4,5,7],"status":"Nico",
       "waifus":[
-        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":1,"name":{"nick":"Erina","name":"Erina","surn":"Pendleton","jap":null},"waifuType":[1],"pokeType":[1,0]},
+        {"id":2,"name":{"nick":"Poco´s Sister","name":null,"surn":null,"jap":"ポコの姉"},"waifuType":[7],"pokeType":[1,0]},
+        {"id":3,"name":{"nick":"LisaLisa","name":"Elizabeth","surn":"Straizo","jap":"リサリサ"},"waifuType":[7],"pokeType":[7,18]},
+        {"id":4,"name":{"nick":"Suzi Q","name":"Suzi","surn":"Quatro","jap":"スージーQ"},"waifuType":[9],"pokeType":[1,0]},
+        {"id":5,"name":{"nick":"Seiko","name":"Holy","surn":"Joestar","jap":"ジョースター ホリィ"},"waifuType":[9],"pokeType":[1,0]},
+        {"id":6,"name":{"nick":"Midler","name":null,"surn":null,"jap":"ミドラー"},"waifuType":[18],"pokeType":[11,0]},
+        {"id":7,"name":{"nick":"Mariah","name":"Mariah","surn":null,"jap":"マライア"},"waifuType":[18],"pokeType":[11,16]},
+        {"id":7,"name":{"nick":"Malena","name":"Malena","surn":null,"jap":"マレーナ"},"waifuType":[18],"pokeType":[1,0]}
       ]
     },
     {"id":null,"name":"Azumanga","srcType":[1,5],"status":"Nico",
@@ -172,23 +178,185 @@
     },
     {"id":null,"name":"Golden Boy","srcType":[1,4,5,7],"status":"Maldo",
       "waifus":[
-        {"id":1,
-          "name":{"nick":"","name":"","surn":null,"jap":null},
-          "img":[
-            {"id":"Real","url":"img.jpg"},
-            {"id":"Chibi","url":"img2.jpg"},
-            {"id":"Pixels","url":"img3.jpg"},
-            {"id":"Game","url":"img4.jpg"}
-          ],
-          "waifuType":[0],"pokeType":[0,0]
-        },
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"img":[{"id":"Real","url":"img.jpg"},{"id":"Chibi","url":"img2.jpg"},{"id":"Pixels","url":"img3.jpg"},{"id":"Game","url":"img4.jpg"}],"waifuType":[0],"pokeType":[0,0]},
         {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
-    {"id":null,"name":"","srcType":[1,5],"status":"Nico",
+    {"id":null,"name":"Prison School","srcType":[1,5],"status":"Nico",
       "waifus":[
         {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
         {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Horimiya","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Mushoku Tensei","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Date a Live","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"100 Waifus","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Dr. Stone","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Street Fighters","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"King of Fighter","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Mortal Kombat","srcType":[1,3,4,8],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Tomo-chan","srcType":[1,5],"status":"Maldo",
+      "waifus":[
+        {"id":1,"name":{"nick":"Tomo","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Shinmai Maou no Testament","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Trinity Seven","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Overlord","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Overflow","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Vampire Danjiryou","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Doki Doki Literature","srcType":[4],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Yagate Kimi ni Naru","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Asobi Asobase","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Nekopara","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Oreimo","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Dokuro-chan","srcType":[1,5],"status":"Maldo",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Jashin-chan Dropkrick","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Metal Slug","srcType":[4],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Pokemon","srcType":[1,4,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Nier Automata","srcType":[4],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Bayonetta","srcType":[4],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Bunny-girl smepai","srcType":[1,5],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Tomb Rider","srcType":[3,4],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"Lara Croft","name":"Lara","surn":"Croft","jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"Azur Lane","srcType":[4],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"Lara Croft","name":"Lara","surn":"Croft","jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":null,"name":"","srcType":[3,4],"status":"Nico",
+      "waifus":[
+        {"id":1,"name":{"nick":"Lara Croft","name":"Lara","surn":"Croft","jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     }
   ],
@@ -228,7 +396,7 @@
     {"id":1,"name":"Deredere","desc":"Enérgica, amable y cariñosa con los demás. De todos los tipos de personalidad, son las más estables y tienden a ser los protagonistas. Aunque muestran su afecto hacia un ser querido, pueden mantener relaciones normales con los demás."},
     {"id":2,"name":"Oujodere","desc":"Desprende un comportamiento de dama tranquila y serena con los demás. Son estrictas consigo mismas por fuera, pero dulces por dentro."},
     {"id":3,"name":"Megadere","desc":"Colma constantemente a su amado de elogios y afecto hasta una obsesión casi enfermiza."},
-    {"id":4,"name":"Tsundere","desc":"persona fría y hostil por fuera, pero dulce y amable por dentro con las personas adecuadas. Es la personalidad más reconocible."},
+    {"id":4,"name":"Tsundere","desc":"Persona fría y hostil por fuera, pero dulce y amable por dentro con las personas adecuadas. Es la personalidad más reconocible."},
     {"id":5,"name":"Yandere","desc":"Al principio, son muy afectuosas y cariñosas con su pareja, hasta que se convierte en una obsesión constante para ellas. Esto lleva a la Yandere a volverse sobreprotectora, violenta y psicótica con aquellos que considera una amenaza para la felicidad y el bienestar de su pareja."},
     {"id":6,"name":"Dandere","desc":"Tímidas, calladas y asociales en la mayoría de las situaciones. Tienden a permanecer calladas para evitar entrar en conflicto. A pesar de su carácter reservado, estas introvertidas se abrirán y mostrarán su lado dere cuando estén a solas con la persona o el grupo adecuados."},
     {"id":7,"name":"Kuudere","desc":"Incluso en las situaciones más estresantes, siempre están tranquilas y serenas. Nunca entran en pánico y suelen permanecer distantes y analíticas hasta el final. A diferencia de las Dandere, rara vez muestran afecto o emoción a los demás en cualquier situación, pero pueden estar ocultando sus verdaderas emociones en el fondo."},
@@ -245,13 +413,15 @@
     {"id":18,"name":"Undere","desc":"Dice sí a todo lo que le ordena su pareja. Sin importar las consecuencias, su fuerte devoción no les permite traicionar tan fácilmente a sus seres queridos."},
     {"id":19,"name":"Hajidere","desc":"Sabe socializar con todo el mundo menos con la persona que le gusta, se vuelve muy tímida o nerviosa."},
     {"id":20,"name":"Bodere","desc":"combinación de Dandere y Tsundere, actúa de forma similar a la Hajidere, pero arremete con más agresividad contra su enamorado que ellos."},
-    {"id":21,"name":"Himedere","desc":"se ve a sí mismo como una reina o princesa real que se muestra constantemente condescendiente con los demás. Tienen un intenso sentido del orgullo y exigen que la gente atienda cada una de sus necesidades"},
-    {"id":22,"name":"Kamidere","desc":"llevan su narcisismo al extremo y se ven a sí mismas como seres divinos perfectos que exigen la sumisión de la gente. A veces, sin embargo, su arrogancia provoca su caída."},
+    {"id":21,"name":"Himedere","desc":"Se ve a sí mismo como una reina o princesa real que se muestra constantemente condescendiente con los demás. Tienen un intenso sentido del orgullo y exigen que la gente atienda cada una de sus necesidades"},
+    {"id":22,"name":"Kamidere","desc":"Llevan su narcisismo al extremo y se ven a sí mismas como seres divinos perfectos que exigen la sumisión de la gente. A veces, sin embargo, su arrogancia provoca su caída."},
     {"id":23,"name":"Hinedere","desc":"ven el mundo a través de un prisma cínico y su frialdad a menudo los convierte en personas desagradables. A pesar de ello, esconden un punto de ternura y sólo se abrirán a la persona adecuada en las circunstancias adecuadas."},
     {"id":24,"name":"Nemuidere","desc":"siempre está perezosa y somnolienta. Les gusta dormir lo justo y tienen que ser motivadas por otras personas para hacer algo. Las Darudere son igualmente perezosas para hacer cualquier cosa a menos que se lo pida alguien que realmente les importa."},
     {"id":25,"name":"Kanedere","desc":"Sólo se interesa por alguien en función de su estatus y riqueza, ignorando a cualquier otra persona a menos que puedan aprovecharse de ella. Sin embargo, si conoce a la persona adecuada, es posible que aprenda a mirar más allá de la riqueza y aprecie a una persona por lo que realmente es."},
     {"id":26,"name":"Kekkondere","desc":"Cree en el amor a primera vista y quiere casarse de inmediato. Pueden ser espeluznantes y decididas hasta el punto de convertirse en Yanderes."},
-    {"id":27,"name":"Yottadere","desc":"le gusta demasiado la bebida. Puede enfadarse o irritarse mucho cuando está borracha o simplemente quedarse dormida en un rincón."}
+    {"id":27,"name":"Yottadere","desc":"le gusta demasiado la bebida. Puede enfadarse o irritarse mucho cuando está borracha o simplemente quedarse dormida en un rincón."},
+    {"id":28,"name":"Tomboy","desc":"Que curioso que a pesar de ser mujer mantenga algunas actitudes de hombre, e incluso me termine gustando eso."},
+    {"id":29,"name":"Milf","desc":"Siglas con conocimiento antiguo transmitido por generaciones. Ha de tratarse de una mujer madura con ciertas preocupaciones..."}
   ],
   "moreInfo":{
     "pokeTypes":"https://pokemon.fandom.com/wiki/Types",
