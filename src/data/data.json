@@ -150,13 +150,13 @@
       "waifus":[
         {"id":1,"name":{"nick":"Nami","name":"Nami","surn":null,"jap":"ナミ"},"waifuType":[0],"pokeType":[0,0]},
         {"id":2,"name":{"nick":"Robin","name":"Nico Robin","surn":null,"jap":"ニコ・ロビン"},"waifuType":[0],"pokeType":[0,0]},
-        {"id":3,"name":{"nick":"Boa Hancock","name":"Hancock","surn":null,"jap":"ボア・ハンコック"},"waifuType":[0],"pokeType":[0,0]},
+        {"id":3,"name":{"nick":"Boa Hancock","name":"Hancock","surn":null,"jap":"ハンコック"},"waifuType":[0],"pokeType":[0,0]},
         {"id":4,"name":{"nick":"Uta","name":"Uta","surn":null,"jap":"ウタ"},"waifuType":[0],"pokeType":[0,0]},
         {"id":5,"name":{"nick":"Nojiko","name":"Nojiko","surn":null,"jap":"ノジコ"},"waifuType":[0],"pokeType":[0,0]},
         {"id":6,"name":{"nick":"Yamato","name":"Yamato","surn":null,"jap":"ヤマト"},"waifuType":[0],"pokeType":[0,0]},
         {"id":7,"name":{"nick":"Shirahoshi","name":"Shirahoshi","surn":"Neptune","jap":"しらほし"},"waifuType":[0],"pokeType":[0,0]},
-        {"id":8,"name":{"nick":"Charlotte Pudding","name":"Pudding","surn":"Charlotte","jap":"シャー ロット·プリン"},"waifuType":[0],"pokeType":[0,0]},
-        {"id":9,"name":{"nick":"Charlotte Smoothie","name":"Smoothie","surn":"Charlotte","jap":"シャーロット·スムージー"},"waifuType":[0],"pokeType":[0,0]},
+        {"id":8,"name":{"nick":"Charlotte Pudding","name":"Pudding","surn":"Charlotte","jap":"プリン"},"waifuType":[0],"pokeType":[0,0]},
+        {"id":9,"name":{"nick":"Charlotte Smoothie","name":"Smoothie","surn":"Charlotte","jap":"スムージー"},"waifuType":[0],"pokeType":[0,0]},
         {"id":10,"name":{"nick":"Viola","name":"Viola","surn":null,"jap":"ヴィオラ"},"waifuType":[0],"pokeType":[0,0]},
         {"id":11,"name":{"nick":"Kikunojo","name":"Kikukojo","surn":null,"jap":"菊の丞"},"waifuType":[0],"pokeType":[0,0]},
         {"id":12,"name":{"nick":"Kalifa","name":null,"surn":null,"jap":"カリファ"},"waifuType":[0],"pokeType":[0,0]},
@@ -164,8 +164,8 @@
         {"id":14,"name":{"nick":"Belo Betty","name":null,"surn":null,"jap":"ベロ・ベティ"},"waifuType":[0],"pokeType":[0,0]},
         {"id":15,"name":{"nick":"Black Maria","name":null,"surn":null,"jap":"ブラックマリア"},"waifuType":[0],"pokeType":[0,0]},
         {"id":16,"name":{"nick":"Jigoku Benten","name":"Benten","surn":"Jigoku","jap":"地獄弁天"},"waifuType":[0],"pokeType":[0,0]},
-        {"id":17,"name":{"nick":"Charlotte Broyé","name":"Broyé","surn":"Charlotte","jap":"シャーロット·ブロワイエ"},"waifuType":[0],"pokeType":[0,0]},
-        {"id":18,"name":{"nick":"Charlotte Galette","name":"Galette","surn":"Charlotte","jap":"シャーロット·ガレット"},"waifuType":[0],"pokeType":[0,0]},
+        {"id":17,"name":{"nick":"Charlotte Broyé","name":"Broyé","surn":"Charlotte","jap":"ブロワイエ"},"waifuType":[0],"pokeType":[0,0]},
+        {"id":18,"name":{"nick":"Charlotte Galette","name":"Galette","surn":"Charlotte","jap":"ガレット"},"waifuType":[0],"pokeType":[0,0]},
         {"id":19,"name":{"nick":"Cosette","name":null,"surn":null,"jap":"コゼット"},"waifuType":[0],"pokeType":[0,0]},
         {"id":20,"name":{"nick":"Ginrummy","name":null,"surn":null,"jap":"ジンラミー"},"waifuType":[0],"pokeType":[0,0]},
         {"id":21,"name":{"nick":"Domino","name":null,"surn":null,"jap":"ドミノ"},"waifuType":[0],"pokeType":[0,0]},
@@ -442,6 +442,11 @@
       ]
     },
     {"id":49,"name":"Majo Taisen","srcType":[5],"status":"Maldo",
+      "waifus":[
+        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+      ]
+    },
+    {"id":50,"name":"Jigokuraku","srcType":[1,5],"status":"Maldo",
       "waifus":[
         {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
