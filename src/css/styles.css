@@ -54,7 +54,6 @@ main{
         flex-direction: column;
         justify-content: space-between;
         background-color: var(--bg);
-        background-image: url("../../../img/bocchi-the-roch-mod.png");
         border-radius: 0 10px 10px 10px;
         div.name, div.jap{
           width: 100%;

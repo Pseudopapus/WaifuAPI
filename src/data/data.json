@@ -192,10 +192,43 @@
       ]
     },
     {"id":10,"name":"One Punch Man","srcType":[1,4,5],"status":"Publishing",
-      "waifus":[]
+      "waifus":[
+        {"id":1,"name":{"nick":"Fubuki","name":"Fubuki","surn":null,"jap":"フブキ"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":2,"name":{"nick":"Tatsumaki","name":"Tatsumaki","surn":null,"jap":"タツマキ"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":3,"name":{"nick":"Mizuki","name":"Mizuki","surn":null,"jap":"ミズキ"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":4,"name":{"nick":"Mosukīto Musume","name":null,"surn":null,"jap":"モスキート娘"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":5,"name":{"nick":"Lily","name":"Lily","surn":null,"jap":"リリー"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":6,"name":{"nick":"Maiko Plasma","name":null,"surn":null,"jap":"舞妓プラズマ"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":7,"name":{"nick":"Do-S","name":null,"surn":null,"jap":"怪人姫弩S"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":8,"name":{"nick":"Ring Ring","name":null,"surn":null,"jap":"リンリン"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":9,"name":{"nick":"Noria","name":"Noria","surn":null,"jap":"ノリア"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":10,"name":{"nick":"Asami","name":"Asami","surn":null,"jap":"アサミ"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":11,"name":{"nick":"Suiko","name":"Suiko","surn":null,"jap":"スイコ"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":12,"name":{"nick":"Tanktop Girl","name":null,"surn":null,"jap":"タンクトップガール"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":13,"name":{"nick":"Kiro","name":null,"surn":null,"jap":"キーロ"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":14,"name":{"nick":"Yuta","name":"Yuta","surn":null,"jap":"ユタ"},"waifuType":[0],"pokeType":[1,0]},
+        {"id":15,"name":{"nick":"Psyko","name":null,"surn":null,"jap":"サイコス"},"waifuType":[0],"pokeType":[1,0]}
+      ]
     },
     {"id":11,"name":"Jujutsu Kaisen","srcType":[1,5],"status":"Publishing",
-      "waifus":[]
+      "waifus":[
+        {"id":1,"name":{"nick":"Nobara","name":"Nobara","surn":"Kugisaki","jap":"釘崎野薔薇"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":2,"name":{"nick":"Maki","name":"Maki","surn":"Zenin","jap":"禪院真希"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":3,"name":{"nick":"Miwa","name":"Miwa","surn":"Kasumi","jap":"三輪霞"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":4,"name":{"nick":"Mai","name":"Mai","surn":"Zenin","jap":"禪院真依"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":5,"name":{"nick":"Utahime","name":"Iori","surn":"Utahime","jap":"庵歌姫"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":6,"name":{"nick":"Shoko","name":"Shoko","surn":"Ieiri","jap":"家入硝子"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":7,"name":{"nick":"Momo","name":"Momo","surn":"Nishimiya","jap":"西宮桃"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":8,"name":{"nick":"Nitta","name":"Nitta","surn":"Akari","jap":"新田明"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":9,"name":{"nick":"Setsuko","name":"Setsuko","surn":"Sasaki","jap":"佐々木 節子"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":10,"name":{"nick":"Yuki","name":"Yuki","surn":"Tsukumo","jap":"九十九 由基"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":11,"name":{"nick":"Hana","name":"Hana","surn":"Kurusu","jap":"来栖華"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":12,"name":{"nick":"Takada","name":null,"surn":null,"jap":"高田ちゃん"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":13,"name":{"nick":"Yorozu","name":null,"surn":null,"jap":"万"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":13,"name":{"nick":"Mei Mei","name":null,"surn":null,"jap":"冥冥"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":13,"name":{"nick":"Uro","name":"Uro","surn":"Takako","jap":"鳥鷺亨子"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":13,"name":{"nick":"Manami","name":"Suda","surn":"Manami","jap":"菅田真奈美"},"waifuType":[1],"pokeType":[1,0]}
+      ]
     },
     {"id":12,"name":"Bleach","srcType":[1,5],"status":"Publishing",
       "waifus":[]
@@ -214,152 +247,152 @@
     },
     {"id":14,"name":"Azumanga","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":15,"name":"Golden Boy","srcType":[1,4,5,7],"status":"Maldo",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"img":[{"id":"Real","url":"img.jpg"},{"id":"Chibi","url":"img2.jpg"},{"id":"Pixels","url":"img3.jpg"},{"id":"Game","url":"img4.jpg"}],"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"img":[{"id":"Real","url":"img.jpg"},{"id":"Chibi","url":"img2.jpg"},{"id":"Pixels","url":"img3.jpg"},{"id":"Game","url":"img4.jpg"}],"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":16,"name":"Prison School","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":17,"name":"Horimiya","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":18,"name":"Mushoku Tensei","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":19,"name":"Date a Live","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":20,"name":"100 Waifus","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":21,"name":"Dr. Stone","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":22,"name":"Street Fighters","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":23,"name":"King of Fighter","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":24,"name":"Mortal Kombat","srcType":[1,3,4,8],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":25,"name":"Tomo-chan","srcType":[1,5],"status":"Maldo",
       "waifus":[
         {"id":1,"name":{"nick":"Tomo","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":26,"name":"Shinmai Maou no Testament","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":27,"name":"Trinity Seven","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":28,"name":"Overlord","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":29,"name":"Overflow","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":30,"name":"Vampire Danjiryou","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":31,"name":"Doki Doki Literature","srcType":[4],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":32,"name":"Yagate Kimi ni Naru","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":33,"name":"Asobi Asobase","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":34,"name":"Nekopara","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":35,"name":"Oreimo","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":36,"name":"Dokuro-chan","srcType":[1,5],"status":"Finished",
       "waifus":[
         {"id":1,"name":{"nick":"Dokuro","name":"Dokuro","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":37,"name":"Jashin-chan Dropkrick","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":38,"name":"Metal Slug","srcType":[4],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":39,"name":"Pokemon","srcType":[1,3,4,5],"status":"Publishing",
@@ -388,20 +421,20 @@
     },
     {"id":40,"name":"Nier Automata","srcType":[1,4],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":41,"name":"Bayonetta","srcType":[4],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":42,"name":"Bunny-girl sempai","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":43,"name":"Tomb Rider","srcType":[3,4],"status":"Nico",
@@ -411,22 +444,22 @@
     },
     {"id":44,"name":"Azur Lane","srcType":[4],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":"Lara","surn":"Croft","jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":"Lara","surn":"Croft","jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":45,"name":"No Game No Life","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":46,"name":"Maid Dragon","srcType":[1,5],"status":"Nico",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":47,"name":"Shuumatsu no Valkyrie","srcType":[1,5],"status":"Maldo",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":47,"name":"CyberPunk: Edgerunners","srcType":[5],"status":"Finished",
@@ -438,17 +471,17 @@
     },
     {"id":48,"name":"Komi-san","srcType":[1,5],"status":"Publishing",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":49,"name":"Majo Taisen","srcType":[5],"status":"Maldo",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":50,"name":"Jigokuraku","srcType":[1,5],"status":"Maldo",
       "waifus":[
-        {"id":null,"name":{"nick":"","name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     }
   ],
