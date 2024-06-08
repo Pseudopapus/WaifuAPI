@@ -225,9 +225,9 @@
         {"id":11,"name":{"nick":"Hana","name":"Hana","surn":"Kurusu","jap":"来栖華"},"waifuType":[1],"pokeType":[1,0]},
         {"id":12,"name":{"nick":"Takada","name":null,"surn":null,"jap":"高田ちゃん"},"waifuType":[1],"pokeType":[1,0]},
         {"id":13,"name":{"nick":"Yorozu","name":null,"surn":null,"jap":"万"},"waifuType":[1],"pokeType":[1,0]},
-        {"id":13,"name":{"nick":"Mei Mei","name":null,"surn":null,"jap":"冥冥"},"waifuType":[1],"pokeType":[1,0]},
-        {"id":13,"name":{"nick":"Uro","name":"Uro","surn":"Takako","jap":"鳥鷺亨子"},"waifuType":[1],"pokeType":[1,0]},
-        {"id":13,"name":{"nick":"Manami","name":"Suda","surn":"Manami","jap":"菅田真奈美"},"waifuType":[1],"pokeType":[1,0]}
+        {"id":14,"name":{"nick":"Mei Mei","name":null,"surn":null,"jap":"冥冥"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":15,"name":{"nick":"Uro","name":"Uro","surn":"Takako","jap":"鳥鷺亨子"},"waifuType":[1],"pokeType":[1,0]},
+        {"id":16,"name":{"nick":"Manami","name":"Suda","surn":"Manami","jap":"菅田真奈美"},"waifuType":[1],"pokeType":[1,0]}
       ]
     },
     {"id":12,"name":"Bleach","srcType":[1,5],"status":"Publishing",
@@ -245,10 +245,21 @@
         {"id":7,"name":{"nick":"Malena","name":"Malena","surn":null,"jap":"マレーナ"},"waifuType":[18],"pokeType":[1,0]}
       ]
     },
-    {"id":14,"name":"Azumanga","srcType":[1,5],"status":"Nico",
+    {"id":14,"name":"Naruto","srcType":[1,5],"status":"Finished",
       "waifus":[
-        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
-        {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
+        {"id":1,"name":{"nick":"Hinata","name":"Hinata","surn":"Hyuuga","jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":2,"name":{"nick":"Sakura","name":"Sakura","surn":"Haruno","jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":3,"name":{"nick":"Ino","name":"Ino","surn":"Yamanaka","jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":4,"name":{"nick":"Tsunade","name":"Tsunade","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":5,"name":{"nick":"Temari","name":"Temari","surn":"Nara","jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":6,"name":{"nick":"Kushina","name":"Kushina","surn":"Uzumaki","jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":7,"name":{"nick":"Konan","name":"Konan","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":8,"name":{"nick":"Anko Mitarashi","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":9,"name":{"nick":"Tenten","name":"Tenten","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":10,"name":{"nick":"Hanabi","name":"Hanabi","surn":"Hyūga","jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":11,"name":{"nick":"Mei Terumi","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":12,"name":{"nick":"Kurenai Yūhi","name":"","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
+        {"id":13,"name":{"nick":"Karin","name":"Karin","surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
     {"id":15,"name":"Golden Boy","srcType":[1,4,5,7],"status":"Maldo",
@@ -359,7 +370,7 @@
         {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
       ]
     },
-    {"id":33,"name":"Asobi Asobase","srcType":[1,5],"status":"Nico",
+    {"id":33,"name":"Dragon Ball","srcType":[1,5],"status":"Nico",
       "waifus":[
         {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]},
         {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"waifuType":[0],"pokeType":[0,0]}
