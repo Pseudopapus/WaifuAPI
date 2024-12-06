@@ -12,11 +12,6 @@ header {
 	position: sticky;
 	top: 0;
 }
-header.resize {
-	height: 4rem;
-	overflow: hidden;
-	background: var(--color-5);
-}
 header svg {
 	width: 5rem;
 	height: 5rem;
@@ -82,7 +77,7 @@ header .off svg:hover {
 
 main {
 	position: relative;
-	width: clamp(320px, 100%, 1080px);
+	width: clamp(320px, 100%, 1180px);
 	min-height: calc(100% - 4rem);
 	height: fit-content;
 	padding: 1rem 1.5rem;

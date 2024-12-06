@@ -17,7 +17,7 @@ export default function CardPopup () {
 					<h5 className="center">{total}</h5>
 				</div>
 				<div className={s.w_img}>
-					<img src={"/img/"+(waifu.img ? waifu.img : "notFound.png")} alt="" className={waifu.img ? s.found : s.notFound} />
+					<img src={"/WaifuAPI/img/"+(waifu.img ? waifu.img : "notFound.png")} alt="" className={waifu.img ? s.found : s.notFound} />
 				</div>
 				{waifu.name.jap ? <div className={s.jap}><h4 className="center">{waifu.name.jap}</h4></div> : ""}
 			</div>
