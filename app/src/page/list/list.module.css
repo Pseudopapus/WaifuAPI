@@ -1,0 +1,33 @@
+.waifuList{
+	width: 100%;
+	height: fit-content;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	gap: 1rem;
+}
+.c1{
+	background-color: var(--color-1);
+	h4{background-color: var(--color-1) !important;}
+}
+.c2{
+	background-color: var(--color-2);
+	h4{background-color: var(--color-2) !important;}
+}
+.c3{
+	background-color: var(--color-3);
+	h4{background-color: var(--color-3)!important;}
+}
+.c4{
+	background-color: var(--color-4);
+	h4{background-color: var(--color-4) !important;}
+}
+.c5{
+	background-color: var(--color-5);
+	h4{background-color: var(--color-5) !important;}
+}
+.c6{
+	background-color: var(--color-6);
+	h4{background-color: var(--color-6) !important;}
+}
