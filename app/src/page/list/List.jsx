@@ -1,7 +1,7 @@
 import React from "react";
 import { useLocalStorage } from "@uidotdev/usehooks";
 import s from "./list.module.css";
-import data from "../../assets/data.json";
+import waifuList from "../../assets/data/waifu.json";
 import Card from "../../component/card/Card";
 import CardPopup from "../../component/cardPopUp/CardPopUp";
 
@@ -15,7 +15,7 @@ export default function List () {
         <>
         {waifuPopup ? <CardPopup/> : ""}
         <div className={s.waifuList}>
-            {data.src.map(src => {
+            {waifuList.map(src => {
                 group = (group>=5 ? 0 : (src.id ? group+1 : 0));
                 return(
                     src.waifus.map((waifu, waifuKey) => {
@@ -23,7 +23,8 @@ export default function List () {
                         total += 1;
                         return(<Card 
                             key={waifuKey} 
-                            waifu={waifu} 
+                            waifu={waifu}
+                            src={src.name} 
                             color={colors[group]} 
                             total={total}
                         />);

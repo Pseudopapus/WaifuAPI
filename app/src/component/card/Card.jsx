@@ -2,7 +2,7 @@ import React from "react";
 import { useLocalStorage } from "@uidotdev/usehooks";
 import s from "./card.module.css";
 
-export default function Card ({waifu, color, total}) {
+export default function Card ({waifu, src, color, total}) {
     const [waifuPopup, setWaifuPopup] = useLocalStorage('waifuAPI_waifuSelected', false);
 	
 	return (
@@ -10,6 +10,7 @@ export default function Card ({waifu, color, total}) {
 		className={s.waifuCard+" "+color} 
 		onClick={() => setWaifuPopup({
 			waifu: waifu,
+			src: src,
 			color: color,
 			total: total
 		})}>

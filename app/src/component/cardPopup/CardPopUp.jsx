@@ -4,7 +4,7 @@ import s from "./cardPopup.module.css";
 
 export default function CardPopup () {
     const [waifuPopup, setWaifuPopup] = useLocalStorage('waifuAPI_waifuSelected', false);
-	const {waifu, color, total} = waifuPopup;
+	const {waifu, src, color, total} = waifuPopup;
 
 	return (
 		!waifuPopup ? "" :
@@ -46,6 +46,10 @@ export default function CardPopup () {
 				<div className={s.infoRow}>
 					<span>Last Name:</span>
 					<span>{waifu.name.surn ? waifu.name.surn : "unknown"}</span>
+				</div>
+				<div className={s.infoRow}>
+					<span>Source:</span>
+					<span>{src}</span>
 				</div>
 			</div>
 		</article>
