@@ -16,9 +16,26 @@ export default function CardPopup () {
 					<h4 className="center">{waifu.name.nick}</h4>
 					<h5 className="center">{total}</h5>
 				</div>
-				<div className={s.w_img}>
-					<img src={"/WaifuAPI/img/"+(waifu.img ? waifu.img : "notFound.png")} alt="" className={waifu.img ? s.found : s.notFound} />
-				</div>
+				{
+					waifu.img.length == 1 ?
+					<div className={s.w_img}>
+						<img 
+							className={waifu.img[0] ? s.found : s.notFound} 
+							src={"/WaifuAPI/img/"+(waifu.img[0] ? waifu.img[0] : "notFound.png")} 
+							alt="" 
+						/>
+					</div> :
+					<div className={s.w_img_carousel}>
+						{waifu.img.map((waifuImg, waifuImgKey)=>(
+							<img 
+								key={waifuImgKey}
+								className={waifuImg ? s.found : s.notFound} 
+								src={"/WaifuAPI/img/"+(waifuImg ? waifuImg : "notFound.png")} 
+								alt="" 
+							/>
+						))}
+					</div>
+				}
 				{waifu.name.jap ? <div className={s.jap}><h4 className="center">{waifu.name.jap}</h4></div> : ""}
 			</div>
 			<div className={s.waifuInfo}>
