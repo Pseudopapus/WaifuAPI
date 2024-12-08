@@ -22,6 +22,7 @@ Api elaborada con la mayor pasión dispuesta directamente de nuestros corazones 
   - look at "Git Commits Example"
   3. No Lolis
   4. No Furris
+  5. Imgs (no mas de 700 x 800px, recomendable de 300 x 350px)
 
 ## Git Commits Example:
 ```log
