@@ -36,7 +36,11 @@ export default function CardPopup () {
 						))}
 					</div>
 				}
-				{waifu.name.jap ? <div className={s.jap}><h4 className="center">{waifu.name.jap}</h4></div> : ""}
+				{
+					waifu.name.jap ? 
+					<div className={s.jap+" "+(waifu.img.length != 1 ? s.mb_75rem : "")}><h4 className="center">{waifu.name.jap}</h4></div> 
+					: ""
+				}
 			</div>
 			<div className={s.waifuInfo}>
 				<div className={s.infoRow}>

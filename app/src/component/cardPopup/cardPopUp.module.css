@@ -63,10 +63,13 @@
 		justify-content: flex-end;
 		h4{
 			height: 100%;
-			padding:5px 0 0 7px;
+			padding: 5px 0 0 7px;
 			border-radius: 10px 0 0 0;
-			line-height:100%;
+			line-height: 100%;
 		}
+	}
+	.mb_75rem{
+		margin-bottom: .75rem;
 	}
 	.w_img, .w_img_carousel{
 		position: absolute;
