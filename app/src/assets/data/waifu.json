@@ -1,7 +1,7 @@
 [
   {"id":1,"name":"Bocchi The Rock","srcType":[1,5],"status":"Publishing",
     "waifus":[
-      {"id":1,"name":{"nick":"Bocchi","name":"Hitori","surn":"Gotoh","jap":"ぼっちちゃん"},"img":["1-1.gif"],"types":[0],"elements":[0,0]},
+      {"id":1,"name":{"nick":"Bocchi","name":"Hitori","surn":"Gotoh","jap":"ぼっちちゃん"},"img":["1-1.jpg","1-1-2.gif"],"types":[0],"elements":[0,0]},
       {"id":2,"name":{"nick":"Nijika","name":"Nijika","surn":"Ijichi","jap":"虹にじ夏か"},"img":["1-2.jpg"],"types":[0],"elements":[0,0]},
       {"id":3,"name":{"nick":"Ryo","name":"Ryo","surn":"Yamada","jap":"リョウ"},"img":["1-3.jpg"],"types":[0],"elements":[0,0]},
       {"id":4,"name":{"nick":"Kita","name":"Kita","surn":"Ikuyo","jap":"喜き多た"},"img":["1-4.jpg"],"types":[0],"elements":[0,0]},
@@ -217,7 +217,7 @@
     "waifus":[
       {"id":1,"name":{"nick":"Rukia","name":"Rukia","surn":"Kuchiki","jap":"朽木 ルキア"},"img":["12-1.jpg"],"types":[0],"elements":[0,0]},
       {"id":2,"name":{"nick":"Orihime","name":"Inoue","surn":"Orihime","jap":"井上 織姫"},"img":["12-2.jpg"],"types":[0],"elements":[0,0]},
-      {"id":3,"name":{"nick":"Yoruichi","name":"Yoruichi","surn":"Shihōin","jap":"四楓院 夜一"},"img":["12-3.webp"],"types":[0],"elements":[0,0]},
+      {"id":3,"name":{"nick":"Yoruichi","name":"Yoruichi","surn":"Shihōin","jap":"四楓院 夜一"},"img":["12-3.webp","12-3-2.webp","12-3-3.jpg"],"types":[0],"elements":[0,0]},
       {"id":4,"name":{"nick":"Kukaku","name":"Kukaku","surn":"Shiba","jap":"志波空鶴"},"img":["12-4.webp"],"types":[0],"elements":[0,0]},
       {"id":5,"name":{"nick":"Suì-Fēng","name":"Shaolin","surn":"Feng","jap":"砕蜂"},"img":["12-5.webp"],"types":[0],"elements":[0,0]},
       {"id":6,"name":{"nick":"Nemu","name":"Nemu","surn":"Kurotsuchi","jap":"涅ネム"},"img":["12-6.jpg"],"types":[0],"elements":[0,0]},
@@ -432,7 +432,7 @@
       {"id":20,"name":{"nick":"Vaporeon","name":"Vaporeon","surn":null,"jap":"シャワーズ"},"img":[null],"types":[0],"elements":[0,0]}
     ]
   },
-  {"id":40,"name":"Nier Automata","srcType":[1,4],"status":"Nico",
+  {"id":40,"name":"Nier Automata","srcType":[1,4],"status":"Publishing",
     "waifus":[
       {"id":1,"name":{"nick":"2B","name":null,"surn":null,"jap":null},"img":["40-1.jpg"],"types":[0],"elements":[0,0]},
       {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"img":[null],"types":[0],"elements":[0,0]}
@@ -487,12 +487,12 @@
       {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"img":[null],"types":[0],"elements":[0,0]}
     ]
   },
-  {"id":49,"name":"Majo Taisen","srcType":[5],"status":"Maldo",
+  {"id":49,"name":"Majo Taisen","srcType":[5],"status":"Publishing",
     "waifus":[
       {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"img":[null],"types":[0],"elements":[0,0]}
     ]
   },
-  {"id":50,"name":"Jigokuraku","srcType":[1,5],"status":"Maldo",
+  {"id":50,"name":"Jigokuraku","srcType":[1,5],"status":"Finished",
     "waifus":[
       {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"img":[null],"types":[0],"elements":[0,0]}
     ]
@@ -608,12 +608,12 @@
       {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"img":[null],"types":[0],"elements":[0,0]}
     ]
   },
-  {"id":72,"name":"Tengen Toppa Gurren Lagan","srcType":[1,5],"status":"Publishing",
+  {"id":71,"name":"Tengen Toppa Gurren Lagan","srcType":[1,5],"status":"Publishing",
     "waifus":[
       {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"img":[null],"types":[0],"elements":[0,0]}
     ]
   },
-  {"id":71,"name":"","srcType":[1,5],"status":"Publishing",
+  {"id":72,"name":"","srcType":[1,5],"status":"Publishing",
     "waifus":[
       {"id":null,"name":{"nick":null,"name":null,"surn":null,"jap":null},"img":[null],"types":[0],"elements":[0,0]}
     ]

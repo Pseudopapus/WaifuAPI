@@ -4,7 +4,9 @@ import "./footer.css";
 export default function Footer () {
 	return(
         <footer className="center">
-            <h2>Pseudopapus</h2>
+            <a className="heading" href="https://github.com/Pseudopapus">
+                <h2>Pseudopapus</h2>
+            </a>
             <div className="info">
                 <div className="center">
                 <h3>Creación</h3>
@@ -12,8 +14,8 @@ export default function Footer () {
                 </div>
                 <div className="center">
                 <h3>Autores</h3>
-                <p>McMaldo</p>
-                <p>Cabritapiupiu</p>
+                <a href="https://github.com/McMaldo">@McMaldo</a>
+                <a href="https://github.com/cabritapiupiu">@Cabritapiupiu</a>
                 </div>
             </div>
             <div className="ubic">
